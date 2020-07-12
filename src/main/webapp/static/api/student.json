@@ -1,0 +1,25 @@
+{
+    "total": 2,
+    "rows":[
+    {
+    "id": 1,
+    "name": "1班",
+    "number": "123",
+    "introducation": "123",
+    "coordinator": "123",
+    "telephone": "1233",
+    "email": "1231",
+    "grade_name": "3年级"
+    },
+    {
+    "id": 69,
+    "name": "2班",
+    "number": "123",
+    "introducation": "123",
+    "coordinator": "123",
+    "telephone": "123",
+    "email": "123",
+    "grade_name": "2年级"
+    }
+    ]
+}
